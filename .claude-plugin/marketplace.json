@@ -1,0 +1,6 @@
+{
+  "name": "cs-organization",
+  "metadata": { "description": "Shared customer success workflows for account teams." },
+  "owner": { "name": "CS Organization" },
+  "plugins": [{ "name": "cs-org", "source": "./plugins/cs-org" }]
+}
