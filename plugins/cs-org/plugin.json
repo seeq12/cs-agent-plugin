@@ -1,7 +1,9 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "cs-org",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Evidence-based customer success workflows for account teams.",
-  "author": { "name": "CS Organization" }
+  "author": {
+    "name": "CS Organization"
+  }
 }
