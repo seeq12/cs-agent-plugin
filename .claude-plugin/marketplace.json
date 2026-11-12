@@ -1,0 +1,11 @@
+{
+  "name": "cs-customer-success-marketplace",
+  "owner": { "name": "Customer Success" },
+  "plugins": [
+    {
+      "name": "cs-customer-success",
+      "source": "./",
+      "description": "Shared Customer Success workflows and setup guidance."
+    }
+  ]
+}

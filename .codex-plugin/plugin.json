@@ -1,0 +1,6 @@
+{
+  "name": "cs-customer-success",
+  "version": "0.1.0",
+  "description": "Shared Customer Success workflows and setup guidance for personal AI agents.",
+  "skills": "./skills/"
+}

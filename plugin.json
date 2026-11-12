@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cs-customer-success",
+  "version": "0.1.0",
+  "description": "Shared Customer Success workflows and setup guidance for personal AI agents."
+}
